@@ -14,11 +14,11 @@ Bem-vindo ao meu perfil GitHub! Sou um estudante de Ciência da Computação apa
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
+  <img align="center" alt="ANGULAR" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" title="ANGULAR"/>
   <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP"/>
   <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"/>
-    <img align="center" alt="ORACLE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="ORACLE"/>
+  <img align="center" alt="ORACLE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="ORACLE"/>
+  <img align="center" alt="PlSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plsql/plsql-original.svg" title="PLSQL"/>
 </div>
 
 ---
