@@ -41,7 +41,7 @@ Bem-vindo ao meu perfil GitHub! Sou um estudante de Ciência da Computação apa
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de Ciência da Computação (penúltimo ano).
-- 🌱 Atualmente aprendendo mais sobre **JavaScript**, **PHP**, **SQL**, além de me aprofundar em **Angular**, **TypeScript** e **PL/SQL**.
+- 🌱 Atualmente aprendendo mais sobre **Angular**, além de me aprofundar em **TypeScript** e **PL/SQL**.
 - 👨‍💻 Tenho experiência com **suporte ao cliente**, **banco de dados Oracle** e desenvolvimento com **linguagem PL/SQL**.
 - 📚 Adoro explorar novas tecnologias e resolver problemas com código.
 
