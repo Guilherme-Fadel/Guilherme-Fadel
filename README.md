@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil GitHub! Sou um estudante de Ciência da Computação apa
   <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP"/>
   <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"/>
   <img align="center" alt="ORACLE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="ORACLE"/>
-  <img align="center" alt="PlSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plsql/plsql-original.svg" title="PLSQL"/>
+  <img align="center" alt="TYPESCRIPT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain-.svg" title="TYPESCRIPT"/>
 </div>
 
 ---
