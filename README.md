@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Fadel! 👋
 
-Bem-vindo ao meu perfil GitHub! Sou um estudante de Ciência da Computação apaixonado por tecnologia, programação e desenvolvimento web. Estou sempre buscando aprender mais e compartilhar conhecimentos.
+Sou um estudante de Ciência da Computação apaixonado por tecnologia, programação e desenvolvimento web. Meu objetivo principal é construir uma carreira sólida na área de desenvolvimento de software, com foco em aprimorar continuamente minhas habilidades técnicas. Busco especializar-me em desenvolvimento backend e, futuramente, aplicar meus conhecimentos na área de machine learning, contribuindo para soluções inovadoras e de alto impacto. 
 
 <div align="center">
   <a href="https://github.com/Guilherme-Fadel">
@@ -41,9 +41,9 @@ Bem-vindo ao meu perfil GitHub! Sou um estudante de Ciência da Computação apa
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Estudante de Ciência da Computação (penúltimo ano).
+- 🎓 Estudante de Ciência da Computação (último ano).
 - 🌱 Atualmente aprendendo mais sobre **Angular**, além de me aprofundar em **TypeScript** e **PL/SQL**.
-- 👨‍💻 Tenho experiência com **suporte ao cliente**, **banco de dados Oracle** e desenvolvimento com **linguagem PL/SQL**.
+- 👨‍💻 Tenho experiência com **suporte ao cliente**, **banco de dados Oracle** e desenvolvimento com **Python**.
 - 📚 Adoro explorar novas tecnologias e resolver problemas com código.
 
 
