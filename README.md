@@ -1,6 +1,13 @@
-# Olá, eu sou o Guilherme Fadel! 👋
+# Guilherme Fadel
 
-Sou um estudante de Ciência da Computação apaixonado por tecnologia, programação e desenvolvimento web. Meu objetivo principal é construir uma carreira sólida na área de desenvolvimento de software, com foco em aprimorar continuamente minhas habilidades técnicas. Busco especializar-me em desenvolvimento backend e, futuramente, aplicar meus conhecimentos na área de machine learning, contribuindo para soluções inovadoras e de alto impacto. 
+Sou estudante de Ciência da Computação e Desenvolvedor Full Stack, com foco em desenvolvimento web, automação de processos e integração de sistemas.
+
+Atuo com TypeScript, Angular, Java, Python e Node.js, além de experiência sólida com bancos de dados Oracle, MySQL e PostgreSQL, incluindo criação, manutenção e otimização de procedures, triggers e scripts em PL/SQL.
+
+Tenho experiência prática no desenvolvimento de soluções com inteligência artificial aplicada ao suporte, utilizando automações com n8n, arquitetura RAG, Docker e integrações via APIs REST. Trabalho com versionamento utilizando Git e GitHub e participo de times que adotam metodologia ágil Scrum.
+
+Meu objetivo profissional é evoluir continuamente como desenvolvedor, contribuindo com soluções escaláveis, bem estruturadas e com impacto real nos processos de negócio.
+
 
 <div align="center">
   <a href="https://github.com/Guilherme-Fadel">
