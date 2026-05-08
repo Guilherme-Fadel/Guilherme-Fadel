@@ -18,23 +18,12 @@ Meu objetivo profissional é evoluir continuamente como desenvolvedor, contribui
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img alt="JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  &nbsp;
-  <img alt="TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  &nbsp;
-  <img alt="Angular" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
-  &nbsp;
-  <img alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  &nbsp;
-  <img alt="PHP" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-  &nbsp;
-  <img alt="MySQL" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  &nbsp;
-  <img alt="Oracle" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
-  &nbsp;
-  <img alt="Postman" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=for-the-badge&logo=oracle)
 
 ---
 
